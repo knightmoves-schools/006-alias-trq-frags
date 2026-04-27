@@ -1,2 +1,2 @@
 -- Add your SQL here
-SELECT TITLE FROM EMPLOYEE = 'Sales'
+SELECT NAME AS "Sales Associate" FROM Employee
