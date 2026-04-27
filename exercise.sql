@@ -1,1 +1,2 @@
 -- Add your SQL here
+SELECT NAME FROM EMPLOYEE WHERE DEPARTMENT = 'Sales';
